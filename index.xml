@@ -431,17 +431,20 @@
 &lt;pre>&lt;code> &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
 &lt;/code>&lt;/pre>
-&lt;!-- ========== START: S-CORE v0.8 Release Gate News ========== -->
+&lt;!-- ========== START: S-CORE 0.9 Milestone Release Card ========== -->
 &lt;div class="main-blog-item-card d-flex flex-column gap-3">
  &lt;div class="blog-item-content">
  &lt;div class="top-pick-date d-flex align-items-center gap-2 mb-2">
- &lt;span class="date">July 28, 2026&lt;/span>
+ &lt;span class="icon d-flex align-items-center">
+ &lt;img src="images/icons/calendar.svg" alt="Calendar Icon" />
+ &lt;/span>
+ &lt;span class="date">September 7, 2026&lt;/span>
  &lt;/div>
  &lt;h2 class="h2 mb-3">
- Eclipse S-CORE has reached release gate v0.8!
+ Eclipse S-CORE 0.9 Milestone
  &lt;/h2>
  &lt;div class="card-text mb-4" markdown="1">
-&lt;p>This milestone raises the bar for what every module in scope for v1.0 has to demonstrate: complete, reviewed requirements and architecture documentation, including the safety artifacts that some modules had previously been able to defer. Meeting that bar is a multi-release effort, and v0.8 marks the point where the members committed to it project-wide.&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+&lt;p>We are happy to announce the release of Eclipse S-CORE 0.9 milestone. This update introduces architectural enhancements, new capabilities, and stability improvements.&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
  &lt;section class="esc-section esc-roadmap-1-container-section">
  &lt;div class="container">
  &lt;div
